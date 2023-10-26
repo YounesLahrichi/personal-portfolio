@@ -118,7 +118,7 @@ const Projects = () => {
 
                             <h3 className="projects__modal-title">CountrPicker</h3>
 
-                            <p className="projects__modal-description">Passion project I built for MOBA game DOTA 2</p>
+                            <p className="projects__modal-description">Passion project I built for MOBA DOTA 2</p>
 
                             <ul className="projects__modal-projects grid">
                                 <li className="projects__modal-project">
